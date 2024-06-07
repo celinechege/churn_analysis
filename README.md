@@ -52,7 +52,7 @@ Hyperparameter Tuning: Utilized RandomizedSearchCV for hyperparameter tuning to 
 
 Feature Importance Analysis: Investigated feature importance to identify significant predictors of churn, aiding in the development of targeted retention strategies.
 
-### 6. Hyperparameter Tuned Random Forest Model
+#### 6. Hyperparameter Tuned Random Forest Model
 Hyperparameter Tuning: Conducted hyperparameter tuning using RandomizedSearchCV to optimize the Random Forest model for improved performance.
 
 Model Training and Evaluation: Trained the optimized Random Forest model and evaluated its performance on the testing set.
